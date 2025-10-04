@@ -1,0 +1,17 @@
+[INFO] Starting LFW evaluation...
+[INFO] Starting LFW evaluation...
+[INFO] Found 6000 pairs in csv. Verifying which image files exist...
+[INFO] Starting LFW evaluation...
+[INFO] Found 6000 pairs in csv. Verifying which image files exist...
+Verifying file paths: 100%|██████████████████████████████████████████████████████████████████████████████| 6000/6000 [00:00<00:00, 8455.96it/s]
+[INFO] Found 6000 valid pairs to evaluate.==============================
+
+Evaluating Valid Pairs: 100%|████████████████████████████████████████████████████████████████████████████| 6000/6000 [2:10:22<00:00,  1.30s/it]
+
+      EVALUATION COMPLETE
+==============================
+Total pairs evaluated: 6000
+Correct predictions:   5297
+Accuracy:              88.28%
+Total time taken:      7822.16 seconds
+==============================
