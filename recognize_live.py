@@ -21,7 +21,7 @@ with open(ENCODINGS_PATH, "rb") as f:
 
 # Initialize webcam
 print("[INFO] Starting webcam...")
-video_capture = cv2.VideoCapture(0)
+video_capture = cv2.VideoCapture(1)
 
 # --- NEW: Variables to store the last known locations and names ---
 known_face_locations = []
